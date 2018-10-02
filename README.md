@@ -1,7 +1,7 @@
 # machine-learning
 Current and past machine learning projects.
 
-## Predicting Spotify preferences: 
+### Predicting Spotify preferences: 
 
 This was a final project for the Practical Data Science course at Carnegie Mellon. I collaborated with Zuhayer Quazi and Zach Goldstein. You can view it here:
 
